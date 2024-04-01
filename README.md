@@ -1,8 +1,31 @@
 <h1 align="center">Olympics Data Analysis with SQL</h1>
 <p align="center">
-<img src="https://github.com/ayushmali1801/Olympics-Data-Analysis/assets/157601248/775c3d5f-9914-4e4e-b852-8dc2972b8f4d.type" width="500" height="300">
+<img src="[https://github.com/ayushmali1801/Olympics-Data-Analysis/assets/157601248/775c3d5f-9914-4e4e-b852-8dc2972b8f4d.type](https://png.pngtree.com/background/20210710/original/pngtree-olympic-day-games-background-picture-image_996806.jpg)" width="500" height="300">
 </p>
-This project involves the analysis of an Olympics dataset using MySQL. The dataset includes information about athletes, their performances, and the medals won during various Olympic events. The primary goal is to extract meaningful insights and statistics from the dataset.
+
+The goal of this project is to become acquainted with SQL concepts by solving real-world data questions; it will be accomplished by downloading 120 years of Summer and Winter Olympics History till 2016 dataset from Kaggle and answering each question provided by techTFQ accordingly.
+
+The Tables used in this project are:
+
+olympics_history: it contains all players that have participated in the Olympics till 2016 including their age, sex, national Olympic committee (noc), Olympic game, sport, event and medal type if they won
+olympics_history_noc_regions: it contains all national olympic committees that represent countries with their old and new names from 1896 to 2016
+The Goal of the project is to answer 20 questions related to the Olympics by making SQL query for each one of them and the Questions are:
+
+1. Show how many medal counts present for entire data.
+2. Show count of unique sports present in Olympics.
+3. Show how many different medals won by team India.
+4. Show event wise medals won by India show from highest to lowest medals won in order.
+5. Show event wise medals won by India in order of year.
+6. show country who won maximum medals.
+7.show top 10 countries who won gold.
+8. show in which year did United states won most gold medal.
+9. In which sports United States has most medals.
+10. Find top three players who won most medals along with their sports and country.
+11. Find player with most gold medals in cycling along with his country.
+12. Find player with most medals (Gold+Silver+Bronze) in Basketball also show his country.
+13. Find out the count of different medals of the top basketball player Teresa Edwards.
+14. Find out medals won by male,female each year , Export this data and plot graph in excel.
+
 
 ## Setup
 
