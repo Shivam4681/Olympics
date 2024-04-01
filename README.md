@@ -17,7 +17,6 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
 4. Show event wise medals won by India show from highest to lowest medals won in order.
 5. Show event wise medals won by India in order of year.
 6. show country who won maximum medals.
-7.show top 10 countries who won gold.
 8. show in which year did United states won most gold medal.
 9. In which sports United States has most medals.
 10. Find top three players who won most medals along with their sports and country.
