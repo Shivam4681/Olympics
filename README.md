@@ -1,6 +1,6 @@
 <h1 align="center">Olympics Data Analysis with SQL</h1>
 <p align="center">
-<img src="(pngtree-olympic-day-games-background-picture-image_996806.jpg)" width="500" height="300">
+<img src="images/pngtree-olympic-day-games-background-picture-image_996806.jpg" width="500" height="300">
 </p>
 
 The goal of this project is to become acquainted with SQL concepts by solving real-world data questions; it will be accomplished by downloading 120 years of Summer and Winter Olympics History till 2016 dataset from Kaggle and answering each question provided by techTFQ accordingly.
@@ -31,7 +31,7 @@ The Goal of the project is to answer 20 questions related to the Olympics by mak
 
 1. Create a MySQL database named `project_1`.
 <p>
-<img src="https://github.com/ayushmali1801/Olympics-Data-Analysis/assets/157601248/38db4c21-17d6-444d-9f51-0b1ee3613267.type" width="180" height="130">
+<img src="images/create.png" width="180" height="130">
 </p>
 
 
