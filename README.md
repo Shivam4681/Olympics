@@ -1,6 +1,6 @@
 <h1 align="center">Olympics Data Analysis with SQL</h1>
 <p align="center">
-<img src="images/pngtree-olympic-day-games-background-picture-image_996806.jpg" width="500" height="300">
+<img src="images/pngtree-olympic-day-games-background-picture-image_996806.jpg" width="700" height="300">
 </p>
 
 The goal of this project is to become acquainted with SQL concepts by solving real-world data questions; it will be accomplished by downloading 120 years of Summer and Winter Olympics History till 2016 dataset from Kaggle and answering each question provided by techTFQ accordingly.
@@ -65,7 +65,7 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](images/q2 output.png)
+   <img src="images/q2 output.png">
    
 3. **Show how many different medals won by team India**
 
@@ -73,7 +73,7 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](images/q3 output.png)
+   <img src="images/q3 output.png">
 
 4.**Show event wise medals won by India show from highest to lowest medals won in order**
 
@@ -81,7 +81,7 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](images/q4 output.png)
+   <img src="images/q4 output.png">
 
 5.**Show event wise medals won by India in order of year**
  
@@ -89,7 +89,7 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](images/q5 output.png)
+   <img src="images/q5 output.png">
    
 6.**Top 10 country who won maximum medals.**
  
@@ -97,7 +97,7 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
     
    Result⬇️
 
-   ![Image](images/q6 output.png)
+   <img src="images/q6 output.png">
 
 7.**show top 10 countries who won gold**
 
@@ -105,7 +105,7 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](images/q7 output.png)
+   <img src="images/q7 output.png">
 
 8.**show in which year did United states won most gold medal**
 
@@ -113,7 +113,7 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](images/q8 output.png)
+   <img src="images/q8 output.png">
 
 9.**Top 10 sports in which United States has most medals.**
 
@@ -121,7 +121,7 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](images/q9 output.png)
+   <img src="images/q9 output.png">
 
 10.**Find top three players who won most medals along with their sports and country**
 
@@ -129,7 +129,7 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](images/q10 output.png)
+   <img src="images/q10 output.png">
 
 11.**Find player with most gold medals in cycling along with his country.**
 
@@ -137,7 +137,7 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](images/q11 output.png)
+   <img src="images/q11 output.png">
 
 12.**Find player with most medals (Gold+Silver+Bronze) in Basketball also show his country**
 
@@ -145,7 +145,7 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](images/q12 output.png)
+   <img src="images/q12 output.png">
 
 13.**Find out the count of different medals of the top basketball player Teresa Edwards**
 
@@ -153,7 +153,7 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](images/q13 output.png)
+   <img src="images/q13 output.png">
 
 14.**Find out medals won by male, female each year**
 
@@ -161,9 +161,9 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](images/q14 output.png)
+   <img src="images/q14 output.png">
 
-   ![Image](images/Screenshot 2024-04-01 141015.png)
+   <img src="Screenshot 2024-04-01 141015.png">
 
 ## Insights Summary
 
