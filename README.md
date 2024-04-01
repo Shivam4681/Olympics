@@ -51,7 +51,7 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
 
 ## Queries and Analysis
 
-1. **Show how many medals counts present for entire data**
+1. **Show how many medal counts present for entire data.**
 
    ![Image](images/q1.png)
    
@@ -59,7 +59,7 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
 
    <img src="images/q1 output.png">
 
-2. **Show count of unique sports present in Olympics**
+2. **Show count of unique sports present in Olympics.**
 
    ![Image](images/q2.png)
    
@@ -67,7 +67,7 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
 
    <img src="images/q2 output.png">
    
-3. **Show how many different medals won by team India**
+3. **Show how many different medals won by team India.**
 
    ![Image](images/q3.png)
    
@@ -75,7 +75,7 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
 
    <img src="images/q3 output.png">
 
-4.**Show event wise medals won by India show from highest to lowest medals won in order**
+4.**Show event wise medals won by India show from highest to lowest medals won in order.**
 
    ![Image](images/q4.png)
    
@@ -91,7 +91,7 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
 
    <img src="images/q5 output.png">
    
-6.**Top 10 country who won maximum medals.**
+6.**Show country who won maximum medals.**
  
    ![Image](images/q6.png)
     
@@ -115,7 +115,7 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
 
    <img src="images/q8 output.png">
 
-9.**Top 10 sports in which United States has most medals.**
+9.**In Witch sports United States has most medals.**
 
    ![Image](images/q9.png)
    
@@ -155,7 +155,7 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
 
    <img src="images/q13 output.png">
 
-14.**Find out medals won by male, female each year**
+14.**Find out medals won by male, female each year  , Export this data and plot graph in excel.**
 
    ![Image](images/q14.png)
    
