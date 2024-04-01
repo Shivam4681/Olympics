@@ -9,7 +9,7 @@ The Tables used in this project are:
 
 olympics_history: it contains all players that have participated in the Olympics till 2016 including their age, sex, national Olympic committee (noc), Olympic game, sport, event and medal type if they won
 olympics_history_noc_regions: it contains all national olympic committees that represent countries with their old and new names from 1896 to 2016
-The Goal of the project is to answer 20 questions related to the Olympics by making SQL query for each one of them and the Questions are:
+The Goal of the project is to answer 14 questions related to the Olympics by making SQL query for each one of them and the Questions are:
 
 1. Show how many medal counts present for entire data.
 2. Show count of unique sports present in Olympics.
@@ -164,7 +164,6 @@ The Goal of the project is to answer 20 questions related to the Olympics by mak
    ![Image](images/q14 output.png)
 
    ![Image](images/Screenshot 2024-04-01 141015.png)
-   
 
 ## Insights Summary
 
