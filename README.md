@@ -57,113 +57,113 @@ The Goal of the project is to answer 20 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](Picture/q1 output.png)
+   ![Image](images/q1 output.png)
 
 2. **Show count of unique sports present in Olympics**
 
-   ![Image](Picture/q2.png)
+   ![Image](images/q2.png)
    
    Result⬇️
 
-   ![Image](Picture/q2 output.png)
+   ![Image](images/q2 output.png)
    
 3. **Show how many different medals won by team India**
 
-   ![Image](Picture/q3.png)
+   ![Image](images/q3.png)
    
    Result⬇️
 
-   ![Image](Picture/q3 output.png)
+   ![Image](images/q3 output.png)
 
 4.**Show event wise medals won by India show from highest to lowest medals won in order**
 
-   ![Image](Picture/q4.png)
+   ![Image](images/q4.png)
    
    Result⬇️
 
-   ![Image](Picture/q4 output.png)
+   ![Image](images/q4 output.png)
 
 5.**Show event wise medals won by India in order of year**
  
-   ![Image](Picture/q5.png)
+   ![Image](images/q5.png)
    
    Result⬇️
 
-   ![Image](Picture/q5 output.png)
+   ![Image](images/q5 output.png)
    
 6.**Top 10 country who won maximum medals.**
  
-   ![Image](Picture/q6.png)
+   ![Image](images/q6.png)
     
    Result⬇️
 
-   ![Image](Picture/q6 output.png)
+   ![Image](images/q6 output.png)
 
 7.**show top 10 countries who won gold**
 
-   ![Image](Picture/q7.png)
+   ![Image](images/q7.png)
    
    Result⬇️
 
-   ![Image](Picture/q7 output.png)
+   ![Image](images/q7 output.png)
 
 8.**show in which year did United states won most gold medal**
 
-   ![Image](Picture/q8.png)
+   ![Image](images/q8.png)
    
    Result⬇️
 
-   ![Image](Picture/q8 output.png)
+   ![Image](images/q8 output.png)
 
 9.**Top 10 sports in which United States has most medals.**
 
-   ![Image](Picture/q9.png)
+   ![Image](images/q9.png)
    
    Result⬇️
 
-   ![Image](Picture/q9 output.png)
+   ![Image](images/q9 output.png)
 
 10.**Find top three players who won most medals along with their sports and country**
 
-   ![Image](Picture/q10.png)
+   ![Image](images/q10.png)
    
    Result⬇️
 
-   ![Image](Picture/q10 output.png)
+   ![Image](images/q10 output.png)
 
 11.**Find player with most gold medals in cycling along with his country.**
 
-   ![Image](Picture/q11.png)
+   ![Image](images/q11.png)
    
    Result⬇️
 
-   ![Image](Picture/q11 output.png)
+   ![Image](images/q11 output.png)
 
 12.**Find player with most medals (Gold+Silver+Bronze) in Basketball also show his country**
 
-   ![Image](Picture/q12.png)
+   ![Image](images/q12.png)
    
    Result⬇️
 
-   ![Image](Picture/q12 output.png)
+   ![Image](images/q12 output.png)
 
 13.**Find out the count of different medals of the top basketball player Teresa Edwards**
 
-   ![Image](Picture/q13.png)
+   ![Image](images/q13.png)
    
    Result⬇️
 
-   ![Image](Picture/q13 output.png)
+   ![Image](images/q13 output.png)
 
 14.**Find out medals won by male, female each year**
 
-   ![Image](Picture/q14.png)
+   ![Image](images/q14.png)
    
    Result⬇️
 
-   ![Image](Picture/q14 output.png)
+   ![Image](images/q14 output.png)
 
-   ![Image](Picture/images/Screenshot 2024-04-01 141015.png)
+   ![Image](images/Screenshot 2024-04-01 141015.png)
    
 
 ## Insights Summary
