@@ -163,7 +163,7 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
 
    <img src="images/q14 output.png">
 
-   <img src="Screenshot 2024-04-01 141015.png">
+   <img src="images/Screenshot 2024-04-01 141015.png">
 
 ## Insights Summary
 
