@@ -53,7 +53,7 @@ The Goal of the project is to answer 20 questions related to the Olympics by mak
 
 1. **Show how many medals counts present for entire data**
 
-   ![Image](Picture/q1.png)
+   ![Image](images/q1.png)
    
    Result⬇️
 
