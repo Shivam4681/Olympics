@@ -1,6 +1,6 @@
 <h1 align="center">Olympics Data Analysis with SQL</h1>
 <p align="center">
-<img src="(https://png.pngtree.com/background/20210710/original/pngtree-olympic-day-games-background-picture-image_996806.jpg)" width="500" height="300">
+<img src="(pngtree-olympic-day-games-background-picture-image_996806.jpg)" width="500" height="300">
 </p>
 
 The goal of this project is to become acquainted with SQL concepts by solving real-world data questions; it will be accomplished by downloading 120 years of Summer and Winter Olympics History till 2016 dataset from Kaggle and answering each question provided by techTFQ accordingly.
