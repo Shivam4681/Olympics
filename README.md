@@ -38,14 +38,14 @@ The Goal of the project is to answer 20 questions related to the Olympics by mak
 2. Create a table named `Olympics` to store the dataset.
    
 <p>
-<img src="https://github.com/ayushmali1801/Olympics-Data-Analysis/assets/157601248/214d011f-31ec-452a-930f-2787bbdb4fcf.type" width="200" height="300">
+<img src="images/Table.png" width="200" height="300">
 </p>
 
 
 3. Load Data from CSV file
 
 <p>
-<img src="https://github.com/ayushmali1801/Olympics-Data-Analysis/assets/157601248/7bf203d2-94c1-4443-84cf-ccfa4d916b2b.type" width="650" height="300">
+<img src="images/File.png" width="650" height="300">
 </p>
 
 
@@ -53,19 +53,19 @@ The Goal of the project is to answer 20 questions related to the Olympics by mak
 
 1. **Show how many medals counts present for entire data**
 
-   ![Image](Picture/Q1.png)
+   ![Image](Picture/q1.png)
    
    Result⬇️
 
-   ![Image](Picture/R1.png)
+   ![Image](Picture/q1 output.png)
 
 2. **Show count of unique sports present in Olympics**
 
-   ![Image](Picture/Q2.png)
+   ![Image](Picture/q2.png)
    
    Result⬇️
 
-   ![Image](Picture/r2.png)
+   ![Image](Picture/q2 output.png)
    
 3. **Show how many different medals won by team India**
 
@@ -73,7 +73,7 @@ The Goal of the project is to answer 20 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](Picture/r3.png)
+   ![Image](Picture/q3 output.png)
 
 4.**Show event wise medals won by India show from highest to lowest medals won in order**
 
@@ -81,7 +81,7 @@ The Goal of the project is to answer 20 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](Picture/r4.png)
+   ![Image](Picture/q4 output.png)
 
 5.**Show event wise medals won by India in order of year**
  
@@ -89,7 +89,7 @@ The Goal of the project is to answer 20 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](Picture/r5.png)
+   ![Image](Picture/q5 output.png)
    
 6.**Top 10 country who won maximum medals.**
  
@@ -97,7 +97,7 @@ The Goal of the project is to answer 20 questions related to the Olympics by mak
     
    Result⬇️
 
-   ![Image](Picture/r6.png)
+   ![Image](Picture/q6 output.png)
 
 7.**show top 10 countries who won gold**
 
@@ -105,7 +105,7 @@ The Goal of the project is to answer 20 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](Picture/r7.png)
+   ![Image](Picture/q7 output.png)
 
 8.**show in which year did United states won most gold medal**
 
@@ -113,7 +113,7 @@ The Goal of the project is to answer 20 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](Picture/r8.png)
+   ![Image](Picture/q8 output.png)
 
 9.**Top 10 sports in which United States has most medals.**
 
@@ -121,7 +121,7 @@ The Goal of the project is to answer 20 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](Picture/r9.png)
+   ![Image](Picture/q9 output.png)
 
 10.**Find top three players who won most medals along with their sports and country**
 
@@ -129,7 +129,7 @@ The Goal of the project is to answer 20 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](Picture/r10.png)
+   ![Image](Picture/q10 output.png)
 
 11.**Find player with most gold medals in cycling along with his country.**
 
@@ -137,7 +137,7 @@ The Goal of the project is to answer 20 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](Picture/r11.png)
+   ![Image](Picture/q11 output.png)
 
 12.**Find player with most medals (Gold+Silver+Bronze) in Basketball also show his country**
 
@@ -145,7 +145,7 @@ The Goal of the project is to answer 20 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](Picture/r12.png)
+   ![Image](Picture/q12 output.png)
 
 13.**Find out the count of different medals of the top basketball player Teresa Edwards**
 
@@ -153,7 +153,7 @@ The Goal of the project is to answer 20 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](Picture/r13.png)
+   ![Image](Picture/q13 output.png)
 
 14.**Find out medals won by male, female each year**
 
@@ -161,7 +161,9 @@ The Goal of the project is to answer 20 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](Picture/r14.png)
+   ![Image](Picture/q14 output.png)
+
+   ![Image](Picture/images/Screenshot 2024-04-01 141015.png)
    
 
 ## Insights Summary
