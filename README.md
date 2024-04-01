@@ -57,7 +57,7 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
    
    Result⬇️
 
-   ![Image](images/q1 output.png)
+   <img src="images/q1 output.png">
 
 2. **Show count of unique sports present in Olympics**
 
