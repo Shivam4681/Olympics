@@ -3,14 +3,17 @@
 <img src="images/pngtree-olympic-day-games-background-picture-image_996806.jpg" width="700" height="300">
 </p>
 
+## Description
 The goal of this project is to become acquainted with SQL concepts by solving real-world data questions; it will be accomplished by downloading 120 years of Summer and Winter Olympics History till 2016 dataset from Kaggle and answering each question provided by techTFQ accordingly.
 
-The Tables used in this project are:
+## The Tables used in this project are:
 
 olympics_history: it contains all players that have participated in the Olympics till 2016 including their age, sex, national Olympic committee (noc), Olympic game, sport, event and medal type if they won
 olympics_history_noc_regions: it contains all national olympic committees that represent countries with their old and new names from 1896 to 2016
 The Goal of the project is to answer 14 questions related to the Olympics by making SQL query for each one of them and the Questions are:
 
+
+## Questions
 1. Show how many medal counts present for entire data.
 2. Show count of unique sports present in Olympics.
 3. Show how many different medals won by team India.
