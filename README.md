@@ -15,7 +15,7 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
 
 ## Questions
 1. Show how many medal counts present for entire data.
-2. Show count of unique sports present in Olympics.
+2. Show count of unique sports present in Olympics. 
 3. Show how many different medals won by team India.
 4. Show event wise medals won by India show from highest to lowest medals won in order.
 5. Show event wise medals won by India in order of year.
