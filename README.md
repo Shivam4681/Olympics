@@ -50,7 +50,8 @@ The Goal of the project is to answer 14 questions related to the Olympics by mak
 <p>
 <img src="images/File.png" width="650" height="300">
 </p>
-
+<br>
+<br>
 
 ## Queries and Analysis
 
