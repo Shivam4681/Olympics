@@ -8,7 +8,7 @@ The goal of this project is to become acquainted with SQL concepts by solving re
 
 ## The Tables used in this project are:
 
-olympics_history: it contains all players that have participated in the Olympics till 2016 including their age, sex, national Olympic committee (noc), Olympic game, sport, event and medal type if they won
+olympics_history: it contains all players that have participated in the Olympics till 2016 including their age, sex, national Olympic committee (noc), Olympic game, sport, event and medal type if they won.<br>
 olympics_history_noc_regions: it contains all national olympic committees that represent countries with their old and new names from 1896 to 2016
 The Goal of the project is to answer 14 questions related to the Olympics by making SQL query for each one of them and the Questions are:
 
